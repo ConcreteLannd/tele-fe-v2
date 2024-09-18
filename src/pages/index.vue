@@ -24,9 +24,6 @@ import GameUserSelect from '~/layouts/GameAccountSelect.vue'
 <template>
   <div class="starter">
     <Mv />
-    <!-- <Services />
-    <History />
-    <FAQ /> -->
     <div className="container GameUserSelect">
       <GameUserSelect />
     </div>
