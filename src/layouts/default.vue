@@ -1,7 +1,7 @@
 <template>
   <main class="base">
     <div class="base__body">
-      <Header />
+      <!-- <Header /> -->
       <slot />
     </div>
   </main>
@@ -16,7 +16,7 @@ const router = useRouter()
 
 const indexStore = useIndexStore()
 
-import Header from '~/layouts/Header/Header.vue';
+// import Header from '~/layouts/Header/Header.vue';
 
 // ---------------------------------------------------
 // computed
